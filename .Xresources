@@ -1,0 +1,20 @@
+      !!  @@@  @@@  @@@@@@@   @@@@@@@@   @@@@@@    @@@@@@   
+      !!  @@@  @@@  @@@@@@@@  @@@@@@@@  @@@@@@@   @@@@@@@@  
+      !!  @@!  !@@  @@!  @@@  @@!       !@@       @@!  @@@ 
+      !!  !@!  @!!  !@!  @!@  !@!       !@!       !@!  @!@
+      !!   !@@!@!   @!@!!@!   @!!!:!    !!@@!!    @!@  !@!
+      !!    @!!!    !!@!@!    !!!!!:     !!@!!!   !@!  !!!
+      !!   !: :!!   !!: :!!   !!:            !:!  !!:  !!!
+      !!  :!:  !:!  :!:  !:!  :!:           !:!   :!:  !:!
+      !!   ::  :::  ::   :::   :: ::::  :::: ::   ::::: ::
+      !!   :   ::    :   : :  : :: ::   :: : :     : :  : 
+
+      ! SOURCE TERMINAL COLORS !
+      #include "/home/dead/.res/themes/dracula"
+      ! SOURCE PROGRAM IFIC FILES !
+      #include "/home/dead/.res/urxvt/font"
+      #include "/home/dead/.res/urxvt/ui"
+      ! SOURCE PLUGINS !
+      ! Fullscreen switch !
+		URxvt.perl-ext-common:  fullscreen
+		URxvt.keysym.F11:       perl:fullscreen:switch

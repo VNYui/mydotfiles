@@ -1,0 +1,3 @@
+URxvt*font: xft:Hack NF:style=regular:pixelsize=13:antialias=true
+URxvt.boldFont: xft:Hack NF:style=bold:pixelsize=13:antialias=true
+URxvt.italicFont: xft:Hack NF:style=italic:pixelsize=13:antialias=true
